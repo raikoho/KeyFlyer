@@ -1,5 +1,7 @@
 # KeyFlyer
 ![KeyFlyer](KeyFlyer.png)
+> *"In the age of information, the greatest weapon is not a sword or a gun, but the keystroke. Vigilance in the digital realm is the key to both freedom and security." – Unknown*
+
 ## 🕵️‍♂️Overview
 
 **KeyFlyer** is a powerful and discreet keylogger written in Python that captures keystrokes, including special keys and mouse clicks with their coordinates. The program allows for seamless logging of all user inputs and provides an additional utility for converting the logged keystrokes to different keyboard layouts.
