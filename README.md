@@ -12,10 +12,24 @@
 - Logs mouse clicks (right, left) and their coordinates.
 - Start and stop keylogger with custom key combinations.
 - Seamlessly convert logged keystrokes to different keyboard layouts (English, Russian, Ukrainian, Danish).
-- Organized session logs with timestamps for easy analysis.
+- Organized session logs with timestamps for easy analysis. The files will be stored in the main folder along with the script.
 
 ## 🛠️Installation
 
+### Installation for Linux:
+
+```bash
+git clone https://github.com/raikoho/KeyFlyer.git
+cd KeyFlyer
+python KeyFlyer.py
+or
+python KeyFlyerConverter.py
+```
+Installation for Windows:
+
+### Just use windows terminal to execute .py files. Or build .py files by any compilator or write me - i will send arlready builded files to you.
+
+## 🧩Dependencies
 To install the necessary dependencies, use pip:
 
 ```bash
