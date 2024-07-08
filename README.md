@@ -25,9 +25,9 @@ python KeyFlyer.py
 or
 python KeyFlyerConverter.py
 ```
-Installation for Windows:
+## Installation for Windows:
 
-### Just use windows terminal to execute .py files. Or build .py files by any compilator or write me - i will send arlready builded files to you.
+Just use windows terminal to execute .py files. Or build .py files by any compilator or write me - i will send arlready builded files to you.
 
 ## 🧩Dependencies
 To install the necessary dependencies, use pip:
