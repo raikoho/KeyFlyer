@@ -9,7 +9,7 @@
 ## ✨Features
 
 - Logs all keystrokes, including special keys and key combinations.
-- Logs mouse clicks and their coordinates.
+- Logs mouse clicks (right, left) and their coordinates.
 - Start and stop keylogger with custom key combinations.
 - Seamlessly convert logged keystrokes to different keyboard layouts (English, Russian, Ukrainian, Danish).
 - Organized session logs with timestamps for easy analysis.
@@ -23,17 +23,18 @@ pip install keyboard mouse
 ```
 
 ## 📋Example
-To start the keylogger:
+### To use the keylogger:
 
-1. Run the keylogger script.
-2. Start logging by pressing alt + space.
-3. Stop logging by pressing ctrl + space.
-4. To convert the logged keystrokes:
+1. Run the KeyFlyer (keylogger) script.
+2. Stop logging by pressing alt + space.
+3. Resume recording and logging by pressing ctrl + space.
+   
+### To convert the logged keystrokes:
 
-  - Run the keyboard layout converter script.
+  - Run the keyboard layout converter script - KeyFlyerConverter.
   - Follow the prompts to specify the input log file, output log file, source language, and target language.
   - The translated log file will be generated at the specified output path.
-  - 
+
 ## 🤝Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or additions.
 
