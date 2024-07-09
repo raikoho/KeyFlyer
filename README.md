@@ -4,7 +4,7 @@
 
 ## 🕵️‍♂️Overview
 
-**KeyFlyer** is a powerful and discreet keylogger written in Python that captures keystrokes, including special keys and mouse clicks with their coordinates. The program allows for seamless logging of all user inputs and provides an additional utility for converting the logged keystrokes to different keyboard layouts.
+**KeyFlyer** 2-component script and keylogger written in Python that captures keystrokes, including special keys and mouse clicks with their coordinates. The program allows for seamless logging of all user inputs and provides an additional utility for converting the logged keystrokes to different keyboard layouts.
 
 ## ✨Features
 
